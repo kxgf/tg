@@ -5,11 +5,11 @@ body{
 div{
     color: #808080;
 }
-.button{
+.a{
     height: 200px;
     line-height: 200px;
 }
-a{
+button{
     border-radius: 10px;
     background: #00ffea;
     padding: 10px;
